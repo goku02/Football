@@ -1,5 +1,8 @@
 # Football
 
+## API KEY
+Get your API KEY from
+
 ## Usage:
 For showing league standings: **python LiveScore.py get_standings -l171**
 
