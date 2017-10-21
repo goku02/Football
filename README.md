@@ -1,6 +1,7 @@
 # Football
 
-## Usage: For showing league standings: **python LiveScore.py get_standings -l171**
+## Usage:
+For showing league standings: **python LiveScore.py get_standings -l171**
 
 ## TODO: 
 * Use Termgraph to show bars for displaying points in league standings
