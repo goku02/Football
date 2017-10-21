@@ -1,4 +1,4 @@
-API_KEY = 'a6e73c93d36e7590ade0f904a7e075e205892276145719674856f56d947daf70'
+API_KEY = ''
 # https://apifootball.com/api/?action=get_leagues&country_id=169&APIkey=
 
 actions = ["get_countries", "get_leagues", "get_standings", "get_events"]
