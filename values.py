@@ -1,4 +1,4 @@
-API_KEY = 'My API Key'
+API_KEY = 'MY API KEY'
 # https://apifootball.com/api/?action=get_leagues&country_id=169&APIkey=
 
 actions = ["get_countries", "get_leagues", "get_standings", "get_events"]
